@@ -4,7 +4,7 @@ Title (Italian): <em>Analisi dell’algoritmo Arnoldi-PET per il calcolo del Pag
 </em>. <br>
 Title (English): <em>Analysis of Arnoldi-PET algorithm for computing PageRank</em>.
 
-The source code in Matlab can be found in [Code](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Code/) folder. You must create a folder named <em>Txt</em> in the main folder.
+The source code in Matlab can be found in [Code](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Code/) folder. You must create a folder named <em>Txt</em> in the main folder, where output files will be placed.
 Then, it is sufficient to run the file [main_script.m](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Code/main_script.m).<br>
 The datasets used can be found in [Test_matrices](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Test_matrices/) folder. 
 
