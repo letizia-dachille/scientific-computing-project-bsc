@@ -1,9 +1,0 @@
-
-Matrix: wb-cs-stanford
-Method: A-PET
-Alpha: 0.997
-
-Number of iterations: 334
-Number of matrix-vector products: 534
-Time elapsed: 0.23165
-
